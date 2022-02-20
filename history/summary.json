@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/117.16.191.242",
     "slug": "login-api",
     "status": "up",
-    "uptime": "16.86%",
-    "uptimeDay": "16.86%",
-    "uptimeWeek": "16.86%",
-    "uptimeMonth": "16.86%",
-    "uptimeYear": "16.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 434,
     "timeDay": 434,
     "timeWeek": 434,
     "timeMonth": 434,
     "timeYear": 434,
-    "dailyMinutesDown": {
-      "2022-02-20": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Console Web",
