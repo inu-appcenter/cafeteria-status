@@ -26,6 +26,8 @@ status-website:
   cname: status.inu-cafeteria.app
   logoUrl: https://blog.potados.com/assets/images/touch-icon.png
   favicon: https://blog.potados.com/assets/images/favicon.png
-
+  navbar:
+     - title: GitHub
+       href: https://github.com/inu-appcenter/cafeteria-status
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
