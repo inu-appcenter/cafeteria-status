@@ -22,12 +22,10 @@ sites:
     url: https://codepush.appcenter.ms/v0.1/public/codepush/update_check?deployment_key=Fzqu71x4FXhOaKcAiwpqXkFQddjgYl2dIUW2K&app_version=4.4.1
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.inu-cafeteria.app
-  # baseUrl: /your-repo-name
-  logoUrl: https://avatars.githubusercontent.com/u/35878712?v=4
   name: "Cafeteria Status"
+  cname: status.inu-cafeteria.app
+  logoUrl: https://avatars.githubusercontent.com/u/35878712?v=4
+  favicon: https://blog.potados.com/assets/images/favicon.png
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
