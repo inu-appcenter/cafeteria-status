@@ -9,6 +9,10 @@ sites:
     url: https://api.inu-cafeteria.app
   - name: Console API
     url: https://console-api.inu-cafeteria.app
+  - name: Database
+    check: "tcp-ping"
+    url: api.inu-cafeteria.app
+    port: 3306
   - name: Login API
     url: "http://117.16.191.242:8081"
   - name: Console Web
