@@ -10,8 +10,7 @@ sites:
   - name: Console API
     url: https://console-api.inu-cafeteria.app
   - name: Login API
-    url: http://117.16.191.242
-    port: 8081
+    url: "http://117.16.191.242:8081"
   - name: Console Web
     url: https://console.inu-cafeteria.app
   - name: CodePush
