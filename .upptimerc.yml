@@ -14,8 +14,8 @@ sites:
     check: "tcp-ping"
     url: api.inu-cafeteria.app
     port: 3306
-  - name: Login API
-    url: "http://117.16.191.242:8081"
+  - name: INU API
+    url: "http://api.inuappcenter.kr:8080"
   - name: Console Web
     url: https://console.inu-cafeteria.app
   - name: CodePush
