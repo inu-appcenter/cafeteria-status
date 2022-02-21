@@ -1,7 +1,7 @@
 url: http://117.16.191.242:8081
-status: down
-code: 500
-responseTime: 1054
-lastUpdated: 2022-02-21T12:19:20.434Z
+status: up
+code: 200
+responseTime: 488
+lastUpdated: 2022-02-21T12:51:20.444Z
 startTime: Sun Feb 20 2022 08:44:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
