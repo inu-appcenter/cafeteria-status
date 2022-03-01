@@ -60,19 +60,19 @@
     "url": "http://api.inuappcenter.kr:8080",
     "icon": "https://favicons.githubusercontent.com/api.inuappcenter.kr",
     "slug": "inu-api",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 599,
     "timeWeek": 620,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2022-03-01": 5
+      "2022-03-01": 0
     }
   },
   {
