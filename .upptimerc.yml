@@ -7,19 +7,25 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: App API
     url: https://api.inu-cafeteria.app
+    maxResponseTime: 5000
   - name: Console API
     url: https://console-api.inu-cafeteria.app
+    maxResponseTime: 5000
   - name: Database
     check: "tcp-ping"
     url: api.inu-cafeteria.app
     port: 3306
+    maxResponseTime: 5000
   - name: INU API
     url: "http://api.inuappcenter.kr:8080"
+    maxResponseTime: 5000
   - name: Console Web
     url: https://console.inu-cafeteria.app
+    maxResponseTime: 5000
   - name: CodePush
     url: https://codepush.appcenter.ms/v0.1/public/codepush/update_check?deployment_key=Fzqu71x4FXhOaKcAiwpqXkFQddjgYl2dIUW2K&app_version=4.4.1
-
+    maxResponseTime: 5000
+    
 status-website:
   name: "Cafeteria Status"
   cname: status.inu-cafeteria.app
