@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 536,
-    "timeWeek": 595,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 576,
+    "timeDay": 566,
+    "timeWeek": 591,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 582,
-    "timeDay": 502,
-    "timeWeek": 577,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "time": 584,
+    "timeDay": 532,
+    "timeWeek": 575,
+    "timeMonth": 584,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2022-02-20": 2
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 147,
-    "timeWeek": 166,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "time": 158,
+    "timeDay": 159,
+    "timeWeek": 167,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/api.inuappcenter.kr",
     "slug": "inu-api",
     "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "72.43%",
+    "uptime": "97.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.06%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "96.94%",
-    "time": 606,
-    "timeDay": 582,
-    "timeWeek": 607,
-    "timeMonth": 606,
-    "timeYear": 606,
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.04%",
+    "time": 602,
+    "timeDay": 537,
+    "timeWeek": 599,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2022-03-01": 397
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 180,
+    "time": 215,
+    "timeDay": 132,
     "timeWeek": 155,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2017,
-    "timeDay": 2634,
+    "time": 1973,
+    "timeDay": 2628,
     "timeWeek": 2621,
-    "timeMonth": 2017,
-    "timeYear": 2017,
+    "timeMonth": 1973,
+    "timeYear": 1973,
     "dailyMinutesDown": {}
   }
 ]
