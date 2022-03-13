@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/api.inuappcenter.kr",
     "slug": "inu-api",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
     "time": 577,
     "timeDay": 544,
     "timeWeek": 538,
@@ -80,7 +80,7 @@
     "url": "https://console.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console.inu-cafeteria.app",
     "slug": "console-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 316,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "CodePush",
