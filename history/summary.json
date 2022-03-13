@@ -4,10 +4,10 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/api.inu-cafeteria.app",
     "slug": "app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 584,
@@ -15,16 +15,18 @@
     "timeWeek": 601,
     "timeMonth": 584,
     "timeYear": 584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 1
+    }
   },
   {
     "name": "Console API",
     "url": "https://console-api.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console-api.inu-cafeteria.app",
     "slug": "console-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -34,6 +36,7 @@
     "timeMonth": 585,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-02-20": 2
     }
   },
@@ -61,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/api.inuappcenter.kr",
     "slug": "inu-api",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
     "time": 577,
     "timeDay": 544,
     "timeWeek": 538,
@@ -82,8 +85,8 @@
     "slug": "console-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
@@ -91,9 +94,7 @@
     "timeWeek": 305,
     "timeMonth": 234,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2022-03-13": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CodePush",
