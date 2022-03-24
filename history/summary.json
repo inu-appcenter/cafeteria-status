@@ -98,9 +98,9 @@
     "url": "https://codepush.appcenter.ms/v0.1/public/codepush/update_check?deployment_key=Fzqu71x4FXhOaKcAiwpqXkFQddjgYl2dIUW2K&app_version=4.4.1",
     "icon": "https://favicons.githubusercontent.com/codepush.appcenter.ms",
     "slug": "code-push",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -110,7 +110,7 @@
     "timeMonth": 3530,
     "timeYear": 3271,
     "dailyMinutesDown": {
-      "2022-03-24": 1,
+      "2022-03-24": 0,
       "2022-03-04": 26,
       "2022-03-03": 19
     }
