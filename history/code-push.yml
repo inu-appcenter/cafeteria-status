@@ -1,7 +1,7 @@
 url: https://codepush.appcenter.ms/v0.1/public/codepush/update_check?deployment_key=Fzqu71x4FXhOaKcAiwpqXkFQddjgYl2dIUW2K&app_version=4.4.1
-status: up
+status: degraded
 code: 200
-responseTime: 220
-lastUpdated: 2022-03-24T12:20:22.049Z
+responseTime: 16275
+lastUpdated: 2022-03-24T12:40:07.913Z
 startTime: Sun Feb 20 2022 08:44:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
