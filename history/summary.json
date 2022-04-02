@@ -6,8 +6,8 @@
     "slug": "app-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
@@ -15,18 +15,16 @@
     "timeWeek": 635,
     "timeMonth": 606,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2022-04-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Console API",
     "url": "https://console-api.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console-api.inu-cafeteria.app",
     "slug": "console-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +34,7 @@
     "timeMonth": 647,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-02-20": 2
     }
   },
