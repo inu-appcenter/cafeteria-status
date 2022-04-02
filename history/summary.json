@@ -4,10 +4,10 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/api.inu-cafeteria.app",
     "slug": "app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
@@ -16,7 +16,7 @@
     "timeMonth": 603,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2022-04-02": 1
+      "2022-04-02": 0
     }
   },
   {
