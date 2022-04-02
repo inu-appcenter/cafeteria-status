@@ -4,9 +4,9 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/api.inu-cafeteria.app",
     "slug": "app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 626,
     "timeMonth": 606,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "Console API",
@@ -23,18 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/console-api.inu-cafeteria.app",
     "slug": "console-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 739,
     "timeDay": 2179,
     "timeWeek": 1350,
     "timeMonth": 839,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2022-04-02": 1,
       "2022-02-20": 2
     }
   },
@@ -108,7 +109,7 @@
     "time": 2765,
     "timeDay": 192,
     "timeWeek": 260,
-    "timeMonth": 2939,
+    "timeMonth": 2954,
     "timeYear": 2765,
     "dailyMinutesDown": {
       "2022-03-24": 18,
