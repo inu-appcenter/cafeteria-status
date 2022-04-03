@@ -4,9 +4,9 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/api.inu-cafeteria.app",
     "slug": "app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1424,
     "timeMonth": 935,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   },
   {
     "name": "Console API",
@@ -88,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 290,
     "timeDay": 240,
-    "timeWeek": 145,
+    "timeWeek": 149,
     "timeMonth": 337,
     "timeYear": 290,
     "dailyMinutesDown": {}
@@ -99,11 +101,11 @@
     "icon": "https://favicons.githubusercontent.com/codepush.appcenter.ms",
     "slug": "code-push",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 2752,
     "timeDay": 215,
     "timeWeek": 175,
