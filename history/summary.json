@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/api.inuappcenter.kr",
     "slug": "inu-api",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 561,
     "timeDay": 527,
     "timeWeek": 536,
@@ -80,9 +80,9 @@
     "url": "https://console.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console.inu-cafeteria.app",
     "slug": "console-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 142,
     "timeMonth": 337,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-04": 0
+    }
   },
   {
     "name": "CodePush",
@@ -100,17 +102,16 @@
     "slug": "code-push",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 2787,
     "timeDay": 5133,
     "timeWeek": 1531,
-    "timeMonth": 1697,
+    "timeMonth": 1611,
     "timeYear": 2787,
     "dailyMinutesDown": {
-      "2022-04-04": 1,
       "2022-03-24": 18,
       "2022-03-04": 26,
       "2022-03-03": 19
