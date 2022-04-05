@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 797,
-    "timeDay": 594,
+    "timeDay": 647,
     "timeWeek": 1299,
     "timeMonth": 914,
     "timeYear": 797,
@@ -80,9 +80,9 @@
     "url": "https://console.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console.inu-cafeteria.app",
     "slug": "console-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 146,
     "timeMonth": 331,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "CodePush",
