@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 794,
-    "timeDay": 653,
-    "timeWeek": 1266,
-    "timeMonth": 908,
-    "timeYear": 794,
+    "time": 790,
+    "timeDay": 571,
+    "timeWeek": 1263,
+    "timeMonth": 905,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 702,
-    "timeWeek": 1237,
-    "timeMonth": 842,
-    "timeYear": 727,
+    "time": 724,
+    "timeDay": 526,
+    "timeWeek": 1227,
+    "timeMonth": 840,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2022-02-20": 2
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 187,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 154,
+    "timeWeek": 172,
+    "timeMonth": 175,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 559,
-    "timeDay": 461,
-    "timeWeek": 526,
-    "timeMonth": 540,
-    "timeYear": 559,
+    "time": 556,
+    "timeDay": 411,
+    "timeWeek": 508,
+    "timeMonth": 536,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2022-03-01": 397
     }
@@ -82,18 +82,16 @@
     "slug": "console-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 633,
-    "timeWeek": 368,
-    "timeMonth": 373,
-    "timeYear": 310,
-    "dailyMinutesDown": {
-      "2022-04-05": 1
-    }
+    "time": 309,
+    "timeDay": 774,
+    "timeWeek": 382,
+    "timeMonth": 376,
+    "timeYear": 309,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CodePush",
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
-    "time": 2774,
-    "timeDay": 129,
-    "timeWeek": 1531,
-    "timeMonth": 1607,
-    "timeYear": 2774,
+    "time": 2762,
+    "timeDay": 230,
+    "timeWeek": 1542,
+    "timeMonth": 1608,
+    "timeYear": 2762,
     "dailyMinutesDown": {
       "2022-03-24": 18,
       "2022-03-04": 26,
