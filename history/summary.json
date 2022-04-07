@@ -80,20 +80,18 @@
     "url": "https://console.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console.inu-cafeteria.app",
     "slug": "console-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 147,
-    "timeWeek": 319,
-    "timeMonth": 361,
-    "timeYear": 301,
-    "dailyMinutesDown": {
-      "2022-04-07": 0
-    }
+    "time": 298,
+    "timeDay": 134,
+    "timeWeek": 303,
+    "timeMonth": 355,
+    "timeYear": 298,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CodePush",
