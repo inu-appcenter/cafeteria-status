@@ -80,19 +80,19 @@
     "url": "https://console.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console.inu-cafeteria.app",
     "slug": "console-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 824,
-    "timeWeek": 368,
-    "timeMonth": 349,
-    "timeYear": 305,
+    "time": 303,
+    "timeDay": 602,
+    "timeWeek": 356,
+    "timeMonth": 345,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2022-04-10": 0
+      "2022-04-10": 2
     }
   },
   {
