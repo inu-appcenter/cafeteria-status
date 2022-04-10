@@ -82,8 +82,8 @@
     "slug": "console-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
@@ -91,18 +91,16 @@
     "timeWeek": 356,
     "timeMonth": 345,
     "timeYear": 303,
-    "dailyMinutesDown": {
-      "2022-04-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CodePush",
     "url": "https://codepush.appcenter.ms/v0.1/public/codepush/update_check?deployment_key=Fzqu71x4FXhOaKcAiwpqXkFQddjgYl2dIUW2K&app_version=4.4.1",
     "icon": "https://favicons.githubusercontent.com/codepush.appcenter.ms",
     "slug": "code-push",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
@@ -112,6 +110,7 @@
     "timeMonth": 1089,
     "timeYear": 2715,
     "dailyMinutesDown": {
+      "2022-04-10": 0,
       "2022-03-24": 18,
       "2022-03-04": 26,
       "2022-03-03": 19
