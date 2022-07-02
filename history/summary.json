@@ -88,10 +88,10 @@
     "url": "https://console.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/console.inu-cafeteria.app",
     "slug": "console-web",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 770,
@@ -100,7 +100,7 @@
     "timeMonth": 279,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2022-07-02": 0,
+      "2022-07-02": 1,
       "2022-04-19": 3,
       "2022-04-18": 1
     }
@@ -114,7 +114,7 @@
     "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.39%",
+    "uptimeMonth": "91.40%",
     "uptimeYear": "96.33%",
     "time": 2304,
     "timeDay": 432,
