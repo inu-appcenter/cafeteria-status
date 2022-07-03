@@ -1,7 +1,7 @@
 url: https://console.inu-cafeteria.app
-status: up
-code: 200
-responseTime: 93
-lastUpdated: 2022-07-03T18:52:15.618Z
+status: down
+code: 500
+responseTime: 3049
+lastUpdated: 2022-07-03T18:57:23.240Z
 startTime: Sun Feb 20 2022 08:44:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
