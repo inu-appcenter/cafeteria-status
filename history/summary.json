@@ -4,9 +4,9 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://favicons.githubusercontent.com/api.inu-cafeteria.app",
     "slug": "app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 580,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2022-08-04": 0,
       "2022-06-03": 22
     }
   },
@@ -63,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/api.inuappcenter.kr",
     "slug": "inu-api",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 849,
     "timeDay": 552,
     "timeWeek": 583,
@@ -96,7 +97,7 @@
     "uptimeYear": "100.00%",
     "time": 846,
     "timeDay": 107,
-    "timeWeek": 2497,
+    "timeWeek": 176,
     "timeMonth": 1002,
     "timeYear": 846,
     "dailyMinutesDown": {
