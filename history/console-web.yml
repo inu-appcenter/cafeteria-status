@@ -1,7 +1,7 @@
 url: https://console.inu-cafeteria.app
-status: up
+status: degraded
 code: 200
-responseTime: 653
-lastUpdated: 2022-08-31T18:13:20.238Z
+responseTime: 11126
+lastUpdated: 2022-08-31T18:25:26.878Z
 startTime: Sun Feb 20 2022 08:44:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
