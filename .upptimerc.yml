@@ -17,13 +17,7 @@ sites:
     port: 3306
     maxResponseTime: 5000
   - name: INU API
-    url: "http://api.inuappcenter.kr:8080"
-    maxResponseTime: 5000
-  - name: Console Web
-    url: https://console.inu-cafeteria.app
-    maxResponseTime: 5000
-  - name: CodePush
-    url: https://codepush.appcenter.ms/v0.1/public/codepush/update_check?deployment_key=Fzqu71x4FXhOaKcAiwpqXkFQddjgYl2dIUW2K&app_version=4.4.1
+    url: "https://api.inuappcenter.kr"
     maxResponseTime: 5000
     
 status-website:
