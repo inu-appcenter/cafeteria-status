@@ -77,8 +77,8 @@
     "slug": "inu-api",
     "status": "up",
     "uptime": "97.19%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.19%",
     "time": 797,
@@ -87,7 +87,6 @@
     "timeMonth": 874,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2023-02-09": 1,
       "2022-09-13": 256,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
