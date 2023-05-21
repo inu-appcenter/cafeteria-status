@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 613,
-    "timeDay": 477,
+    "timeDay": 614,
     "timeWeek": 569,
-    "timeMonth": 580,
+    "timeMonth": 581,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2022-12-13": 16,
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/console-api.inu-cafeteria.app.ico",
     "slug": "console-api",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.75%",
     "time": 594,
-    "timeDay": 534,
-    "timeWeek": 591,
-    "timeMonth": 577,
+    "timeDay": 547,
+    "timeWeek": 577,
+    "timeMonth": 576,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2023-01-25": 514,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 186,
-    "timeDay": 177,
-    "timeWeek": 200,
-    "timeMonth": 198,
+    "timeDay": 208,
+    "timeWeek": 199,
+    "timeMonth": 199,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2022-09-13": 238,
@@ -81,10 +81,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.35%",
     "time": 793,
-    "timeDay": 657,
-    "timeWeek": 789,
-    "timeMonth": 775,
-    "timeYear": 852,
+    "timeDay": 743,
+    "timeWeek": 774,
+    "timeMonth": 772,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2023-03-01": 118,
       "2022-09-13": 256,
@@ -99,8 +99,7 @@
       "2022-05-29": 196,
       "2022-05-28": 1423,
       "2022-05-27": 830,
-      "2022-05-22": 289,
-      "2022-05-21": 865
+      "2022-05-22": 289
     }
   }
 ]
