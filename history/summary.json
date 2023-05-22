@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 613,
-    "timeDay": 614,
-    "timeWeek": 569,
-    "timeMonth": 581,
+    "timeDay": 588,
+    "timeWeek": 578,
+    "timeMonth": 579,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2022-12-13": 16,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.75%",
     "time": 594,
-    "timeDay": 547,
-    "timeWeek": 577,
+    "timeDay": 622,
+    "timeWeek": 591,
     "timeMonth": 576,
     "timeYear": 570,
     "dailyMinutesDown": {
@@ -60,8 +60,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 186,
-    "timeDay": 208,
-    "timeWeek": 199,
+    "timeDay": 215,
+    "timeWeek": 204,
     "timeMonth": 199,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -75,16 +75,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inuappcenter.kr.ico",
     "slug": "inu-api",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.35%",
-    "time": 793,
-    "timeDay": 743,
-    "timeWeek": 774,
-    "timeMonth": 772,
-    "timeYear": 853,
+    "uptimeYear": "97.51%",
+    "time": 794,
+    "timeDay": 1238,
+    "timeWeek": 837,
+    "timeMonth": 783,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2023-03-01": 118,
       "2022-09-13": 256,
@@ -98,8 +98,7 @@
       "2022-06-26": 205,
       "2022-05-29": 196,
       "2022-05-28": 1423,
-      "2022-05-27": 830,
-      "2022-05-22": 289
+      "2022-05-27": 830
     }
   }
 ]
