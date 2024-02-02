@@ -4,18 +4,20 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.inu-cafeteria.app.ico",
     "slug": "app-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 637,
-    "timeWeek": 616,
-    "timeMonth": 591,
-    "timeYear": 584,
-    "dailyMinutesDown": {}
+    "time": 601,
+    "timeDay": 5773,
+    "timeWeek": 1902,
+    "timeMonth": 914,
+    "timeYear": 611,
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   },
   {
     "name": "Console API",
