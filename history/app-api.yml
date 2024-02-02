@@ -1,7 +1,7 @@
 url: https://api.inu-cafeteria.app
-status: degraded
-code: 502
-responseTime: 10908
-lastUpdated: 2024-02-02T12:30:29.016Z
+status: down
+code: 404
+responseTime: 596
+lastUpdated: 2024-02-02T12:31:14.137Z
 startTime: 2022-02-20T08:44:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
