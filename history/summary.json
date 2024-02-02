@@ -4,19 +4,19 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.inu-cafeteria.app.ico",
     "slug": "app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 601,
-    "timeDay": 4047,
-    "timeWeek": 1757,
-    "timeMonth": 904,
+    "timeDay": 3200,
+    "timeWeek": 1647,
+    "timeMonth": 897,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-02-02": 1
+      "2024-02-02": 17
     }
   },
   {
