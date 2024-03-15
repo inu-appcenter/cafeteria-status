@@ -4,10 +4,10 @@
     "url": "https://api.inu-cafeteria.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.inu-cafeteria.app.ico",
     "slug": "app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
@@ -16,6 +16,7 @@
     "timeMonth": 562,
     "timeYear": 610,
     "dailyMinutesDown": {
+      "2024-03-15": 2,
       "2024-02-02": 17
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://console-api.inu-cafeteria.app",
     "icon": "https://icons.duckduckgo.com/ip3/console-api.inu-cafeteria.app.ico",
     "slug": "console-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
@@ -35,7 +36,9 @@
     "timeWeek": 527,
     "timeMonth": 549,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 2
+    }
   },
   {
     "name": "Database",
