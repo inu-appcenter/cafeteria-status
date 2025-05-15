@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-05-15": 52,
+      "2025-05-15": 60,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -394,7 +394,7 @@
     "timeMonth": 0,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2025-05-15": 52,
+      "2025-05-15": 60,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -772,7 +772,7 @@
     "timeMonth": 0,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-05-15": 52,
+      "2025-05-15": 60,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -1144,9 +1144,9 @@
     "url": "https://api.inuappcenter.kr",
     "icon": "https://icons.duckduckgo.com/ip3/api.inuappcenter.kr.ico",
     "slug": "inu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
@@ -1156,6 +1156,7 @@
     "timeMonth": 1768,
     "timeYear": 1057,
     "dailyMinutesDown": {
+      "2025-05-15": 0,
       "2025-05-14": 1,
       "2025-01-19": 629,
       "2025-01-18": 1440,
