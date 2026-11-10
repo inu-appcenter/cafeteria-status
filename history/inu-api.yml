@@ -1,7 +1,7 @@
 url: https://api.inuappcenter.kr
-status: down
+status: degraded
 code: 502
-responseTime: 2344
-lastUpdated: 2026-11-10T08:36:58.979Z
+responseTime: 5197
+lastUpdated: 2026-11-10T12:14:29.341Z
 startTime: 2022-02-21T16:44:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
