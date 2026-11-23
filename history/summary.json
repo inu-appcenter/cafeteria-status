@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inu-cafeteria.app.ico",
     "slug": "app-api",
     "status": "down",
-    "uptime": "47.36%",
+    "uptime": "47.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 239,
+      "2026-11-23": 282,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -379,8 +380,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/console-api.inu-cafeteria.app.ico",
     "slug": "console-api",
     "status": "down",
-    "uptime": "47.12%",
+    "uptime": "47.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 239,
+      "2026-11-23": 282,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -763,8 +764,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
     "status": "down",
-    "uptime": "46.18%",
+    "uptime": "46.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 239,
+      "2026-11-23": 282,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1147,8 +1148,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -1157,20 +1157,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inuappcenter.kr.ico",
     "slug": "inu-api",
     "status": "down",
-    "uptime": "77.81%",
+    "uptime": "77.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.86%",
+    "uptimeYear": "0.58%",
     "time": 3942,
-    "timeDay": 234,
-    "timeWeek": 5680,
-    "timeMonth": 5310,
-    "timeYear": 4310,
+    "timeDay": 0,
+    "timeWeek": 6516,
+    "timeMonth": 5328,
+    "timeYear": 4314,
     "dailyMinutesDown": {
       "2025-11-24": 48,
       "2025-11-25": 928,
-      "2026-11-22": 239,
+      "2026-11-23": 282,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
